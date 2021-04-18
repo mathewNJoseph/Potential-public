@@ -1,0 +1,42 @@
+.FeedApp {
+    background-color: #f1f2f5;
+    height: auto;
+}
+
+.app__body {
+  padding: 0px 10px;
+  display: flex;
+  justify-content: space-between;
+  
+  background-color: #f1f2f5;
+    
+
+}
+.Sidebar {
+  display: flex;
+  flex: 1 ;
+  justify-content: flex-start;
+  
+  background-color: #f1f2f5;
+  
+}
+
+.Feed {
+  display: flex;
+  flex: 1 ;
+  justify-content: center;
+  
+  background-color: #f1f2f5;
+ 
+  
+}
+
+.Widgets {
+  padding: 25px 0px;
+  flex: 1 ;
+  display: flex;
+  justify-content: flex-end;
+ 
+  background-color: #f1f2f5;
+  
+}

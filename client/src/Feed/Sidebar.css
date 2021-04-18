@@ -1,0 +1,20 @@
+.sidebar {
+    margin-top: 10px;
+    flex: 0.33;
+}
+
+.sidebar > a {
+    color: black;
+    text-decoration: none;
+}
+
+.sidebar > a::after {
+    color: black;
+    text-decoration: none;
+}
+
+.sidebar > a:visited {
+    color: black;
+    text-decoration: none;
+}
+

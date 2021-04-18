@@ -1,0 +1,22 @@
+.textfield{
+    display: flex;
+    /* position: relative; */
+    flex-direction: column;
+    align-items:center;
+    padding: 5%;
+}
+
+.textArea {
+    min-height: 100px;
+    min-width: 60%;
+    
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.textfield > .submitButton {
+    font-size: 20px;
+    /* width: 1000px; */
+    /* padding: 100px; */
+    /* color: pink; */
+}

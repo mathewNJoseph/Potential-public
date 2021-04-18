@@ -1,0 +1,93 @@
+
+.Homeapp {
+    background-color: #f1f2f5;
+    height: 65vh;
+    
+}
+.login > button {
+    border-radius:  10px;
+    width: 300px;
+    background-color: #2e81f4;
+    color: #eff2f5;
+    font-weight: 800;
+}
+
+.login > button:hover {
+    background-color: gainsboro;
+    color: #2e81f4;
+}
+
+/* Help solve problems in your community */
+
+.Action {
+    position: absolute;
+    width: 524px;
+    height: 122px;
+    left: 152px;
+    top: 159px;
+    
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    
+    
+    
+}
+.Mission {
+    position: absolute;
+width: 616px;
+height: 101px;
+left: 106px;
+top: 301px;
+
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+    
+    
+    
+}
+
+.Join{
+
+position: absolute;
+
+left: 289px;
+top: 467px;
+
+}
+.Join > button {
+    width: 250px;
+    height: 60px;
+    background-color: #2e81f4;
+    color: #eff2f5;
+    font-weight: 800;
+    border-radius:  10px;
+}
+.Join > button:hover {
+    background-color: gainsboro;
+    color: #2e81f4;
+}
+
+.GIF > img{
+position: absolute;
+width: 45%;
+height: 45%;
+left: 850px;
+top: 133px;
+
+}

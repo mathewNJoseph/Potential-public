@@ -1,0 +1,30 @@
+.ResponseApp {
+    background-color: #f1f2f5;
+    height: 500vh;
+    width: 100%;
+}
+
+.ResponseApp__body {
+    
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 54%;
+    margin-left: 26%;
+    margin-right: 26%;
+}
+.ResponseApp__body > h1 {
+    margin-top: 10px;
+    align-items: flex-start;
+}
+.SolutionResponseApp__body
+{   margin-top: 2%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:100%;
+   
+    margin-bottom: 50px;
+}
